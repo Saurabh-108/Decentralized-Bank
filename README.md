@@ -26,57 +26,27 @@ A decentralized banking system built on the Ethereum blockchain, allowing users 
 ## Getting Started
 
 ### Prerequisites
+1. Install [Node.js](https://nodejs.org/), which is required to manage the project's dependencies.
+2. Install [Truffle](https://www.trufflesuite.com/truffle), a framework for smart contract development.
+3. Install [Ganache](https://www.trufflesuite.com/ganache), a personal blockchain for Ethereum development.
+4. Install **[MetaMask](https://metamask.io/)** and set up an Ethereum account.
+5. Ensure you have **[Ether](https://faucet.metamask.io/)** (ETH) for transactions if you’re testing on a test network.
 
-- Install **[MetaMask](https://metamask.io/)** and set up an Ethereum account.
-- Ensure you have **[Ether](https://faucet.metamask.io/)** (ETH) for transactions if you’re testing on a test network.
-
-### Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/SinghNirbhay08/decentralized-finance-bank.git
-   ```
-
-2. Open the project in your preferred code editor.
-
-3. Make sure you have an Ethereum provider (like MetaMask) connected to the network and properly configured.
-
-4. Open the `index.html` file in a browser with MetaMask installed.
-
-5. Interact with the DApp through the UI. Make sure you are logged into MetaMask and connected to the appropriate Ethereum network.
-
-### Running the Project
-
-This is a frontend DApp, and it's ready to use as soon as you open it in a browser with MetaMask:
-
-1. Open the HTML file in a browser.
-2. Connect MetaMask to your Ethereum network.
-3. Interact with the decentralized bank by creating accounts, depositing/withdrawing ETH, and checking balances.
+### Steps to Run the Project
+1. Clone the repository to your local machine.
+2. Navigate into the project folder.
+3. Install all necessary dependencies using Node.js and npm (Node Package Manager).
+4. Start Ganache to run a local Ethereum blockchain for testing.
+5. Compile the smart contracts to prepare them for deployment.
+6. Migrate the smart contracts to the local Ethereum blockchain using Truffle.
 
 ### Smart Contract Deployment
 
 The smart contract for the decentralized bank is already deployed to the Ethereum blockchain. For now, it's linked to the following contract address:
 
 ```text
-Contract Address: 0xB86B7A677F070cedeB8e1352De0072Ba5c18F086
+Contract Address: 0xB86B7A677F070cedeB8e1352De0072Ba5c18F09b
 ```
 
 If you'd like to deploy it to another network, you can update the `contractAddress` in the JavaScript code accordingly.
 
-## Contributing
-
-Feel free to fork this repository and contribute by:
-
-- Reporting issues
-- Suggesting new features
-- Improving the code or UI
-
-If you want to contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new pull request.
-s functionality, and how others can get started or contribute. Let me know if you'd like to add anything specific!
