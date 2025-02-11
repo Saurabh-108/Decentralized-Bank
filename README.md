@@ -10,9 +10,9 @@ A decentralized banking system built on the Ethereum blockchain, allowing users 
 - **Check Balance:** Allows users to check the balance of their account using their account number and PIN.
 
 ## Interface Preview
-![First Image](images/img_6.png)
+![First Image](images/img_4.png)
 ![Second Image](images/img_5.png)
-![Third Image](images/img_4.png)
+![Third Image](images/img_6.png)
 ![Last Image](images/img_3.png)
 
 
