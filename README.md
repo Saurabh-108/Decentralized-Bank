@@ -11,8 +11,8 @@ A decentralized banking system built on the Ethereum blockchain, allowing users 
 
 ## Interface Preview
 ![First Image](images/img_4.png)
-![Second Image](images/img_5.png)
-![Third Image](images/img_6.png)
+![Second Image](images/img_6.png)
+![Third Image](images/img_5.png)
 ![Last Image](images/img_3.png)
 
 
