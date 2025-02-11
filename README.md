@@ -1,5 +1,7 @@
 # Decentralized Bank
 
+## Overview
+
 A decentralized banking system built on the Ethereum blockchain, allowing users to create accounts, deposit funds, withdraw funds, and check balances securely using smart contracts.
 
 ## Features
